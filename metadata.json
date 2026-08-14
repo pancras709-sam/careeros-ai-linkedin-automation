@@ -1,0 +1,11 @@
+{
+  "name": "Remix CareerOS AI Student",
+  "description": "An AI-powered career operating system for students, startups, colleges, and recruiters.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
